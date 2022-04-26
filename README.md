@@ -20,7 +20,7 @@ Louise launched a Kickstarter crowdfunding project for a United States theater p
 As a result of the campaign, she requested additional analysis on outcomes based on launch date and goals to better understand why some projects meet their goals while others do not.
 
 ## Objectives <a name="objectives"></a>
-The requested focus was to analyze the success fail rate of the previous Kickstarter utilizing the platform to raise capital. In addition, we reviewed average pledge amounts, duration, the best time of year to launch, and trends that would help her achieve her current and future goals.
+The requested focus was to analyze the success fail rate of the previous Kickstarter utilizing the platform to raise capital. In addition, we reviewed average pledge amounts, duration, the best time of year to launch, and trends that would help achieve current and future goals.
 
 # Analysis and Conclusions <a name="analysis-and-conclusions"></a>
 ## Dataset <a name="dataset"></a>
